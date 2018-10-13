@@ -14,20 +14,4 @@
 <url>
 <loc>http://wizdia.net/#request</loc>
 </url>
-</urlset><?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-<loc>http://www.wizdia.net/</loc>
-<priority>0.8</priority>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>http://wizdia.net/#products</loc>
-</url>
-<url>
-<loc>http://wizdia.net/#portfolio</loc>
-</url>
-<url>
-<loc>http://wizdia.net/#request</loc>
-</url>
 </urlset>
